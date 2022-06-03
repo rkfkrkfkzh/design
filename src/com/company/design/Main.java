@@ -17,6 +17,7 @@ public class Main {
 //        System.out.println("두 개의 객체가 동일한가?");
 //        System.out.println(aClient.equals(bClient));
 
+       /*
         HairDryer hairDryer = new HairDryer();
         connect(hairDryer);
 
@@ -27,7 +28,8 @@ public class Main {
         AirConditioner airConditioner = new AirConditioner();
         Electronic110V airAdapter = new SocketAdapter(airConditioner);
         connect(airAdapter);
-
+*/
+        
     }
 
     //    콘센트
